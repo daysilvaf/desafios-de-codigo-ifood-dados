@@ -20,7 +20,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 casos possíveis.
 
 -----------------------------------------------------------------
-|   Entrada   |                     Saída                     |
+|   Entrada   |                     Saída                       |
 -----------------------------------------------------------------
 |  Mc Donalds |  O restaurante McDonalds entrega em 10 minutos  |
 |      10     |                                                 |
